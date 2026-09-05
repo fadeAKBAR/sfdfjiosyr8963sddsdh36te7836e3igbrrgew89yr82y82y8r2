@@ -1,0 +1,6 @@
+{
+  "name": "TikTok Coin Top-Up",
+  "description": "Official web portal for TikTok Coin top-up with real-time profile lookup, customizable USD wallet, biometric Face ID verification, and instant transaction receipts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
